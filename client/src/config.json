@@ -1,0 +1,11 @@
+{
+  "apiUrl": "http://localhost:8181/api",
+  "swalConfirmDelete": {
+    "title": "Are you sure you want to delete this card?",
+    "showCancelButton": true,
+    "focusConfirm": false,
+    "confirmButtonText": "Delete",
+    "cancelButtonText": "Cancel",
+    "confirmButtonColor": "#dc3545"
+  }
+}

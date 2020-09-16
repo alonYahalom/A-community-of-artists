@@ -1,0 +1,15 @@
+#root>main>div>div:nth-child(3)>div>div.card-body>span>div>span>div {
+  color: blue;
+  cursor: pointer;
+}
+
+
+#id_description>div>span {
+  max-width: 300;
+
+  word-wrap: break-word;
+}
+
+#id_image {
+  cursor: pointer;
+}
