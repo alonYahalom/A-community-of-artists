@@ -1,4 +1,5 @@
 # A-community-of-artists
+### responsive website
 
 A community of artists after enrolling
 You can advertise and see the art of other artists and keep your favorites
