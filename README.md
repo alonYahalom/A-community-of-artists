@@ -6,7 +6,17 @@ And even make telephone contact with the same artist
 
 - react 
 
-- node , mongoDB , bootstrap , html , css , js
+- node 
+
+- mongoDB
+
+- bootstrap 
+
+- html
+
+- css
+
+- js
 
 ## Setup
 To run this project, install it locally using npm:
