@@ -1,10 +1,13 @@
 # A-community-of-artists
 
-based on react, node , mongoDB
-In order to install the necessary files after downloading the zip file 
-you will register an npm install command
-Followed by npm start
+A community of artists after enrolling
+You can advertise and see the art of other artists to keep your favorites
+And even make telephone contact with the same artist
 
-On the client side it works on port 3000
-And on the server side he's working on port 8181
-c
+- react
+- node
+-mongoDB
+-bootstrap
+-html
+-css
+-js
