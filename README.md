@@ -24,3 +24,10 @@ To run this project, install it locally using npm:
 $ npm install
 
 $ npm start
+
+
+## development enviroment
+
+- client port : 3000
+
+- server port : 8181
