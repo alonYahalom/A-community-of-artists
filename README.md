@@ -22,9 +22,11 @@ And even make telephone contact with the same artist
 ## Setup
 To run this project, install it locally using npm:
 
-$ npm install
+$ npm install 
 
-$ npm start
+$ npm start  - for client
+
+$ nodemon app - for server
 
 
 ## development enviroment
